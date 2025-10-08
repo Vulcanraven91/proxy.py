@@ -1,4 +1,4 @@
-FROM python:3.12-alpine
+FROM python:3.14.0-alpine
 
 LABEL org.opencontainers.image.title="proxy.py" \
     org.opencontainers.image.description="💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • \
